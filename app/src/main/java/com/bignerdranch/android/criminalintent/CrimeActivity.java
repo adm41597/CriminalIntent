@@ -1,4 +1,6 @@
-package com.bignerdranch.android.criminalintent;
+//Replaced by the CrimePagerActivity.java
+
+/*package com.bignerdranch.android.criminalintent;
 
 import android.content.Context;
 import android.content.Intent;
@@ -24,4 +26,4 @@ public class CrimeActivity extends SingleFragmentActivity {
         UUID crimeId = (UUID)getIntent().getSerializableExtra(EXTRA_CRIME_ID);
         return CrimeFragment.newInstance(crimeId);
     }
-}
+}*/
